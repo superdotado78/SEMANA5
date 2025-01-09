@@ -12,3 +12,4 @@ D:\SEMANA5\Sem5\obj\Debug\net9.0\refint\Sem5.dll
 D:\SEMANA5\Sem5\obj\Debug\net9.0\Sem5.pdb
 D:\SEMANA5\Sem5\obj\Debug\net9.0\Sem5.genruntimeconfig.cache
 D:\SEMANA5\Sem5\obj\Debug\net9.0\ref\Sem5.dll
+D:\SEMANA5\Sem5\obj\Debug\net9.0\Sem5.sourcelink.json
